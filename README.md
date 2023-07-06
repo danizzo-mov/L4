@@ -43,4 +43,4 @@
 
 # Предпосчитанные скоры
 
-Если использовать значения параметров как в прикреплённом ноутбуке, то вычисления можно ускорить и работать с вычисленными заранее скорами айтемов: [lmf](https://drive.google.com/file/d/1YprJLVN4KbNA49RU61UMMPPdCqIb7Te3/view?usp=sharing), [warp](https://drive.google.com/file/d/1YYT8c60yXyP4HDUJpWZ9PQAaw4CxJU4z/view?usp=sharing).
+Если использовать значения параметров как в прикреплённом ноутбуке, то вычисления можно ускорить и работать с вычисленными заранее скорами айтемов: [LMF](https://drive.google.com/file/d/1YprJLVN4KbNA49RU61UMMPPdCqIb7Te3/view?usp=sharing), [WARP](https://drive.google.com/file/d/1YYT8c60yXyP4HDUJpWZ9PQAaw4CxJU4z/view?usp=sharing), [LMF](https://drive.google.com/file/d/1hKRy9romZPBKTZUL4owkBjSog9g2pDM_/view?usp=sharing) и [k-OS WARP](https://drive.google.com/file/d/1jzeuMqnOeed0Pz1WZAcYPzuoNodoUX0F/view?usp=sharing).
